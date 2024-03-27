@@ -23,7 +23,7 @@ VGM stands for Video Game Music, and it is a 44.1KHz logging format that stores 
 http://www.smspower.org/uploads/Music/vgmspec170.txt?sid=58da937e68300c059412b536d4db2ca0
 
 # Schematic
-![Schematic](https://github.com/AidanHockey5/Throwback_Operator/raw/master/Schematic/OPL3_VGM_Player/OPL3_VGM_Player.png)
+![Schematic](Schematic/OPL3_VGM_Player/OPL3_VGM_Player.png?raw=true)
 
 # SD Card Information
 
